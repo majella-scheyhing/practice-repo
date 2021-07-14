@@ -1,27 +1,27 @@
-## First Name Last Name
+## Majella Scheyhing
 
-### Term Year 
+### SU B 2012 
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Data Sciences
 
-- Course 2
+- Calc 1
 
-- Course 3
+- TBA
 
-- Course 4
+- TBA
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Working out
 
-- Thing 2
+- Traveling
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Student government
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2021/07/13
