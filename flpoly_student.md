@@ -1,27 +1,24 @@
-## First Name Last Name
+## majella scheyhing
 
-### Term Year 
+### 2021 
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Intro to data science
 
-- Course 2
+- Calc 1
 
-- Course 3
-
-- Course 4
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- working out
 
-- Thing 2
+- Traveling
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- physics as shown in this website <https://floridapoly.edu/degree/undergraduate/engineering-physics.php>
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2012/07/22
